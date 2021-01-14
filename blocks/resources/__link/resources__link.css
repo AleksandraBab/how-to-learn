@@ -1,0 +1,9 @@
+.resources__link {
+  margin: 0;
+  -webkit-transition: opacity 0.3s ease;
+  transition: opacity 0.3s ease;
+}
+
+.resources__link:hover {
+  opacity: 0.5;
+}

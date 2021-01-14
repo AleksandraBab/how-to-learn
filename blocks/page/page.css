@@ -1,0 +1,6 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'M PLUS Rounded 1c', 'Helvetica Neue', Arial, sans-serif;
+}
