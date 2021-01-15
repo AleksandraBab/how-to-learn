@@ -1,3 +1,11 @@
+
 .logo {
   width: 183px;
+  line-height: 0;
+  -webkit-transition: opacity 0.3s ease;
+  transition: opacity 0.3s ease;
+}
+
+.logo:hover {
+  opacity: 0.5;
 }
