@@ -1,0 +1,8 @@
+.logo__link {
+  -webkit-transition: opacity 0.3s ease;
+  transition: opacity 0.3s ease;
+}
+
+.logo__link:hover {
+  opacity: 0.5;
+}
